@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://movitalii.github.io/filmoteka-project/",
+  "homepage": "https://SerhiiLazar.github.io/filmoteka-project/",
   "scripts": {
     "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /filmoteka-project/"
